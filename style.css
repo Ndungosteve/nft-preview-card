@@ -1,0 +1,6 @@
+*{ font-size: 11px; text-align: center; }
+a { color: hsl(228, 45%, 44%); }
+
+.container {
+    width: 1440px;
+}
