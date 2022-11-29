@@ -37,15 +37,20 @@ p {
 }
 
 .image-avatar {
-    width: 9%
+    width: 8%;
 }
 
 .eth {
     display: flex;
-    justify-content: space-evenly;
-    
 }
 
-.value {
-    text-align: left;
+.days {
+    /* padding-left: 9em; */
+}
+
+
+.creator {
+    display: flex;
+    padding-left: 1em;
+    margin-bottom: 4px;
 }
