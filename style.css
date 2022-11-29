@@ -11,24 +11,31 @@ body {
     align-items: center;
     min-height: 100vh;
     font-family: 'Outfit', sans-serif;
+    background-color: hsl(217, 54%, 11%);
    }
 
 h1 {
     text-align: left;
     padding-left: 0.8em;
+    color: hsl(0, 0%, 100%)
 }
 
 
 p {
     text-align: left;
-    padding-left: 0.8em
-}
+    padding-left: 0.8em;
+    color: hsl(228, 45%, 44%); }
+    ;
+    }
+
 .container {
     width: 225px;
-    border: red solid 2px;
+    height: auto;
+    border: hsl(215, 32%, 27%) solid 2px;
     border-radius: 15px;
     text-align: left;
-    box-shadow: 0 0 20px 15px black, 0 0 30px 30px orange;
+    background-color: hsl(216, 50%, 16%);
+    box-shadow: 0 0 0.5px 15px hsl(217, 54%, 11%), 0 0 1px 30px hsl(217, 54%, 11%);
     
     }
 
@@ -72,8 +79,10 @@ p {
 
 .value {
     font-weight: 600;
+    color: hsl(178, 100%, 50%);
 }
 
 .author {
     font-size: 400;
+    color:hsl(0, 0%, 100%)
 }
