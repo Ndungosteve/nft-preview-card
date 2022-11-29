@@ -4,7 +4,7 @@
     text-align: center;
     box-sizing: border-box;
 }
-a { color: hsl(228, 45%, 44%); }
+
 
 
 body {
@@ -87,5 +87,5 @@ p {
 
 .author {
     font-size: 400;
-    color:hsl(0, 0%, 100%)
+    color:hsl(0, 0%, 100%
 }
