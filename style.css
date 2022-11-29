@@ -50,6 +50,21 @@ p {
     border-radius: 10px;
 }
 
+    /* .img {
+        border-radius: 10px;
+        overflow: hidden;
+        position: relative;
+} */
+
+/* .image-overlay {
+    position: absolute;
+    top: 0;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    background-color: hsl(178, 100%, 50%);
+} */
+
 .image-avatar {
     width: 8%;
 }
