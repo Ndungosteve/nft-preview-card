@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
 
-*{ font-size: 11px; text-align: center; }
+*{ font-size: 11px; 
+    text-align: center;
+    box-sizing: border-box;
+}
 a { color: hsl(228, 45%, 44%); }
 
 
